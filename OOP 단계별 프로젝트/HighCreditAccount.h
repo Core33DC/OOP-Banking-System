@@ -1,6 +1,6 @@
 //파일이름: HighCreditAccount.h
 //작성자: 이진우
-//업데이트 정보: [2022. 03. 24] 파일버전 0.9
+//업데이트 정보: [2022. 03. 28] 파일버전 0.9
 
 #ifndef __HIGHCREDIT_ACCOUNT_H__
 #define __HIGHCREDIT_ACCOUNT_H__

@@ -26,4 +26,3 @@ public:
 	//~Account();
 };
 #endif // !__ACCOUNT_H__
-
